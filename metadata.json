@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Recipe Generator",
+  "description": "Generate delicious recipes based on the ingredients you have on hand. Powered by the Gemini API.",
+  "requestFramePermissions": []
+}
